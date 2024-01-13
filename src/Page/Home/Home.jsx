@@ -1,12 +1,14 @@
 import Banner from "./Banner";
-import ProductType from "./ProductType";
+import Category from "./Category";
+import AllProduct from "./ProductType";
 
 
 const Home = () => {
     return (
         <div>
             <Banner></Banner>
-            <ProductType></ProductType>
+            <Category></Category>
+            <AllProduct></AllProduct>
         </div>
     );
 };

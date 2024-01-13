@@ -26,7 +26,7 @@ function ResponsiveAppBar() {
     const [variant, setVariant] = React.useState('solid');
 
      const photo = (user?.photoURL);
-     console.log(photo);
+   
 
     const handleLogOut =async () => {
         logOut()

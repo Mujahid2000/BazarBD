@@ -204,100 +204,100 @@
         "category_Picture": "https://i.ibb.co/bv53JYC/fooditem.jpg",
         "shopName": "Delicious Delights",
         "productName": "Gourmet Chocolate Box",
-        "shopPicture": "https://example.com/delicious_delights.jpg",
+        "shopPicture": "https://i.ibb.co/rm714d3/8405357.jpg",
         "price": "$29.99",
         "description": "Indulge in the finest selection of gourmet chocolates.",
-        "product_image": "https://i.ibb.co/BtXW1kn/h3.jpg"
+        "product_image": "https://i.ibb.co/hmJkvXj/Gourmet-Chocolate-Box.jpg"
         },
         {
         "category": "Food_Item",
         "category_Picture": "https://i.ibb.co/bv53JYC/fooditem.jpg",
         "shopName": "Culinary Creations",
         "productName": "Artisanal Pasta Sampler",
-        "shopPicture": "https://example.com/culinary_creations.jpg",
+        "shopPicture": "https://i.ibb.co/9scnxfM/8948758.jpg",
         "price": "$19.99",
         "description": "Experience the authentic flavors of handmade artisanal pasta.",
-        "product_image": "https://i.ibb.co/BtXW1kn/h3.jpg"
+        "product_image": "https://i.ibb.co/R4HrTqf/Artisanal-Pasta-Sampler.jpg"
         },
         {
         "category": "Food_Item",
         "category_Picture": "https://i.ibb.co/bv53JYC/fooditem.jpg",
         "shopName": "Savor the Spice",
         "productName": "Exotic Spice Collection",
-        "shopPicture": "https://example.com/savor_the_spice.jpg",
+        "shopPicture": "https://i.ibb.co/yWjhmr1/17779659-5900401.jpg",
         "price": "$14.99",
         "description": "Elevate your culinary creations with our exotic spice collection.",
-        "product_image": "https://i.ibb.co/BtXW1kn/h3.jpg"
+        "product_image": "https://i.ibb.co/C8FCVdV/Exotic-Spice-Collection.jpg"
         },
         {
         "category": "Food_Item",
         "category_Picture": "https://i.ibb.co/bv53JYC/fooditem.jpg",
-        "shopName": "Fresh Harvest",
+        "shopName": "Culinary Creations",
         "productName": "Organic Fruit Basket",
-        "shopPicture": "https://example.com/fresh_harvest.jpg",
+        "shopPicture": "https://i.ibb.co/9scnxfM/8948758.jpg",
         "price": "$39.99",
         "description": "Savor the sweetness of our handpicked organic fruit basket.",
-        "product_image": "https://i.ibb.co/BtXW1kn/h3.jpg"
+        "product_image": "https://i.ibb.co/WnLx7m0/Organic-Fruit-Basket.jpg"
         },
         {
         "category": "Food_Item",
         "category_Picture": "https://i.ibb.co/bv53JYC/fooditem.jpg",
-        "shopName": "Bakery Bliss",
+        "shopName": "Savor the Spice",
         "productName": "Artisan Bread Assortment",
-        "shopPicture": "https://example.com/bakery_bliss.jpg",
+        "shopPicture": "https://i.ibb.co/yWjhmr1/17779659-5900401.jpg",
         "price": "$24.99",
         "description": "Enjoy the aroma and taste of our freshly baked artisan bread assortment.",
-        "product_image": "https://i.ibb.co/BtXW1kn/h3.jpg"
+        "product_image": "https://i.ibb.co/nC0bgqj/Artisan-Bread-Assortment.jpg"
         },
         {
         "category": "Food_Item",
         "category_Picture": "https://i.ibb.co/bv53JYC/fooditem.jpg",
-        "shopName": "Flavorful Feasts",
+        "shopName": "Savor the Spice",
         "productName": "Gourmet Spice Rubs Set",
-        "shopPicture": "https://example.com/flavorful_feasts.jpg",
+        "shopPicture": "https://i.ibb.co/yWjhmr1/17779659-5900401.jpg",
         "price": "$17.99",
         "description": "Infuse your dishes with rich flavors using our gourmet spice rubs set.",
-        "product_image": "https://i.ibb.co/BtXW1kn/h3.jpg"
+        "product_image": "https://i.ibb.co/g3rx4S8/Gourmet-Spice-Rubs-Set.jpg"
         },
         {
         "category": "Food_Item",
         "category_Picture": "https://i.ibb.co/bv53JYC/fooditem.jpg",
-        "shopName": "Tea Time Treasures",
+        "shopName": "Culinary Creations",
         "productName": "Luxury Tea Collection",
-        "shopPicture": "https://example.com/tea_time_treasures.jpg",
+        "shopPicture": "https://i.ibb.co/9scnxfM/8948758.jpg",
         "price": "$29.99",
         "description": "Relax and unwind with our curated luxury tea collection.",
-        "product_image": "https://i.ibb.co/BtXW1kn/h3.jpg"
+        "product_image": "https://i.ibb.co/sj2F8vT/Luxury-Tea-Collection.jpg"
         },
         {
         "category": "Food_Item",
         "category_Picture": "https://i.ibb.co/bv53JYC/fooditem.jpg",
         "shopName": "Sweets Paradise",
         "productName": "Assorted Dessert Box",
-        "shopPicture": "https://example.com/sweets_paradise.jpg",
+        "shopPicture": "https://i.ibb.co/ccz0CW9/21742162-6503590.jpg",
         "price": "$22.99",
         "description": "Indulge in a variety of delectable desserts with our assorted dessert box.",
-        "product_image": "https://i.ibb.co/BtXW1kn/h3.jpg"
+        "product_image": "https://i.ibb.co/yd5ynJ1/Assorted-Dessert-Box.jpg"
         },
         {
         "category": "Food_Item",
         "category_Picture": "https://i.ibb.co/bv53JYC/fooditem.jpg",
-        "shopName": "Hearty Harvest",
+        "shopName": "Culinary Creations",
         "productName": "Farm Fresh Vegetable Crate",
-        "shopPicture": "https://example.com/hearty_harvest.jpg",
+        "shopPicture": "https://i.ibb.co/9scnxfM/8948758.jpg",
         "price": "$34.99",
         "description": "Experience farm-fresh goodness with our bountiful vegetable crate.",
-        "product_image": "https://i.ibb.co/BtXW1kn/h3.jpg"
+        "product_image": "https://i.ibb.co/vC5rZB8/Farm-Fresh-Vegetable-Crate.jpg"
         },
         {
         "category": "Food_Item",
         "category_Picture": "https://i.ibb.co/bv53JYC/fooditem.jpg",
-        "shopName": "Gourmet Grains",
+        "shopName": "Culinary Creations",
         "productName": "Quinoa and Farro Medley",
-        "shopPicture": "https://example.com/gourmet_grains.jpg",
+        "shopPicture": "https://i.ibb.co/9scnxfM/8948758.jpg",
         "price": "$15.99",
         "description": "Enjoy a nutritious blend of quinoa and farro with our gourmet grains medley.",
-        "product_image": "https://i.ibb.co/BtXW1kn/h3.jpg"
+        "product_image": "https://i.ibb.co/zxkjFZZ/Quinoa-and-Farro-Medley.jpg"
         },
         {
         "category": "Furniture",
